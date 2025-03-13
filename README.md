@@ -2,4 +2,4 @@
 
 For details, please see http://ics-software-engineering.github.io/nextjs-application-template/.
 
-[Experience Next.js Island Snow](http://courses.ics.hawaii.edu/ics314s25/morea/nextjs-1/experience-nextjs-islandsnow.html)
+[Experience Island Snow (Next.js)](http://courses.ics.hawaii.edu/ics314s25/morea/nextjs-1/experience-nextjs-islandsnow.html)
